@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/Mardoniosc/pontointeligente-spring.svg?branch=master)](https://travis-ci.com/Mardoniosc/pontointeligente-spring)
+
 ### Ponto Inteligente API
 
 API do sistema de ponto inteligente com Java e Spring Boot.
